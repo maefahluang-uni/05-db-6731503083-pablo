@@ -15,7 +15,8 @@ In UserRepository, declare the following methods that help to find all user and 
 - `data.sql` contains insert statements for dummy users. Find where this file is and explain what it is used for? 
 
 ```
-To add dummy data to the database once the application starts running.asdf
+Where - located inside src/main/resources directory
+Used for - To add dummy data to the database once the application starts running
 ```
 
 ## User Reservice - Complete the code
